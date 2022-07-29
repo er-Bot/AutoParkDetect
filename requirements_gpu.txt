@@ -1,0 +1,24 @@
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+cycler==0.11.0
+fonttools==4.33.3
+idna==3.3
+kiwisolver==1.4.2
+matplotlib==3.5.2
+numexpr==2.8.1
+numpy==1.23.0rc2
+packaging==21.3
+pandas==1.4.2
+Pillow==9.1.1
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==6.0
+requests==2.27.1
+six==1.16.0
+tables==3.7.0
+torch==1.10.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.11.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.11.1
+typing-extensions==4.2.0
+urllib3==1.26.9
